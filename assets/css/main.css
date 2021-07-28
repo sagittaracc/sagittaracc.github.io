@@ -2240,6 +2240,11 @@ input, select, textarea {
 						border-bottom-color: rgba(255, 255, 255, 0);
 					}
 
+			.shadow-cover {
+				background: #000000bf;
+				padding: 10em 0;
+			}
+
 			#main > section.cover {
 				padding: 10em 0;
 				background-size: cover;
