@@ -2246,14 +2246,11 @@ input, select, textarea {
 			}
 
 			#main > section.cover {
-				padding: 10em 0;
 				background-size: cover;
 				background-position: center center;
 			}
 
 			#main > section.one {
-				padding-top: 0;
-				padding-bottom: 0;
 				background-color: #81918E;
 				background-image: url("../../images/schelkovo-city.jpg");
 			}
@@ -2308,10 +2305,6 @@ input, select, textarea {
 
 			#main > section {
 				padding: 3em 0;
-			}
-
-			#main section.cover {
-				padding: 5em 0;
 			}
 
 	}
@@ -2576,10 +2569,6 @@ input, select, textarea {
 					padding: 3em 0;
 				}
 
-				#main section.cover {
-					padding: 4em 0;
-				}
-
 	}
 
 /* Mobile */
@@ -2613,10 +2602,6 @@ input, select, textarea {
 
 			#main > section {
 				padding: 2em 0;
-			}
-
-			#main section.cover {
-				padding: 4em 0em;
 			}
 
 				#main section.cover header {
