@@ -2247,8 +2247,10 @@ input, select, textarea {
 			}
 
 			#main > section.one {
+				padding-top: 0;
+				padding-bottom: 0;
 				background-color: #81918E;
-				background-image: url("../../images/banner.jpg");
+				background-image: url("../../images/schelkovo-city.jpg");
 			}
 
 			#main > section.two {
