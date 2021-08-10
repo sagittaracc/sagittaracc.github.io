@@ -2402,6 +2402,10 @@ input, select, textarea {
 			.container {
 				padding: 0 2em 0 2em;
 			}
+		
+			#me {
+				width: 80% !important;
+			}
 
 		/* Item */
 
