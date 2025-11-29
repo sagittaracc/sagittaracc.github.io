@@ -2,4 +2,4 @@
 
 В данный момент я работаю над гипотезой Коллатца.
 
-Мое доказательство [тут](https://sagittaracc.github.io/assets/Collatz-Conjecture.pdf?2)
+Мое доказательство [тут](https://sagittaracc.github.io/assets/Collatz-Conjecture(ru).pdf?3)
